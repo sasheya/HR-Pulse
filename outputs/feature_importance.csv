@@ -1,0 +1,11 @@
+feature_name,coefficient_value
+OverTime,0.7839547430373643
+MonthlyIncome,-0.4916458542337232
+Age,-0.43279926659530066
+YearsSinceLastPromotion,0.40488903161859413
+NumCompaniesWorked,0.36952328794515665
+YearsAtCompany,-0.3674323937482255
+JobSatisfaction,-0.3628907175576268
+EnvironmentSatisfaction,-0.3407687057765772
+DistanceFromHome,0.21465791218927777
+WorkLifeBalance,-0.18196285877730045
