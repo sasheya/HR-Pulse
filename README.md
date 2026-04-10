@@ -38,7 +38,7 @@ The exported CSV files are structurally clean (snake_case columns, no missing va
 | **high_risk_employees.csv** | Feeds a detailed drill-down table ("HR Alert Roster") for HR Business Partners to review individuals flagged by the model. | Contains original HR fields + `attrition_probability`, `is_high_risk` |
 
 ## Interactive Tableau Dashboard
-You can view the final dashboard here: [View Interactive Dashboard on Tableau Public](#) *(Replace `#` with your actual Tableau link)*
+You can interact with the final dashboard here: [View HRPulse Dashboard on Tableau Public](https://public.tableau.com/app/profile/shiv.ashe/viz/HRPulse/Dashboard1)
 
 ![HRPulse Tableau Dashboard](outputs/Dashboard-HRPulse.png)
 
