@@ -36,3 +36,9 @@ The exported CSV files are structurally clean (snake_case columns, no missing va
 | **feature_importance.csv** | Feeds the "Model Drivers" visual. Shows top positive (risk-increasing) and negative (risk-decreasing) factors. | `feature_name`, `coefficient_value` |
 | **attrition_cost.csv** | Feeds the "Executive Summary" KPI banner displaying total leavers, average cost, and potential savings. | `metric_name`, `value` |
 | **high_risk_employees.csv** | Feeds a detailed drill-down table ("HR Alert Roster") for HR Business Partners to review individuals flagged by the model. | Contains original HR fields + `attrition_probability`, `is_high_risk` |
+
+## Interactive Tableau Dashboard
+You can view the final dashboard here: [View Interactive Dashboard on Tableau Public](#) *(Replace `#` with your actual Tableau link)*
+
+![HRPulse Tableau Dashboard](outputs/Dashboard-HRPulse.png)
+
